@@ -1,0 +1,2 @@
+# Paprika-Recipe-Manager-3-Mac-Donwload
+Paprika Recipe Manager 3 for macOS – organize recipes, plan meals, and sync across devices. Works on M1/M2/M3, Sonoma, Ventura, Monterey.
